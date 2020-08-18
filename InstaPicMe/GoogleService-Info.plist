@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>373105504778-8v4mo4f1s5q43hca2bfb5129agpighi3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.373105504778-8v4mo4f1s5q43hca2bfb5129agpighi3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDt92CBr1JFwPwbDRMw8QxngwkDJejWegA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>373105504778</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.christianleovido.InstaPicMe</string>
+	<key>PROJECT_ID</key>
+	<string>swiftui-instaclone</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swiftui-instaclone.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:373105504778:ios:14d02f51d11c70d18b25f3</string>
+	<key>DATABASE_URL</key>
+	<string>https://swiftui-instaclone.firebaseio.com</string>
+</dict>
+</plist>
